@@ -14,7 +14,9 @@ A base de dados detalha a natureza das doações (bens móveis, imóveis ou de c
 ## Pergunta Orientatória
 
 > **"Como o volume financeiro e a quantidade de doações recebidas pelo Governo do Distrito Federal evoluíram entre os anos de 2020 e 2026?"**
+
 > *Houve uma concentração atípica de doações destinadas às áreas de Saúde e Assistência Social durante os anos críticos da pandemia (2020-2022) em comparação aos anos seguintes?*
+
 > *Como a distribuição mensal das doações nos anos de 2020 e 2021 reflete os períodos de pico das ondas de contágio no Distrito Federal?*
 
 ## Tecnologias e Bibliotecas Utilizadas
