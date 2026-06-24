@@ -19,6 +19,10 @@ A base de dados detalha a natureza das doações (bens móveis, imóveis ou de c
 
 3. > *Como a distribuição mensal das doações nos anos de 2020 e 2021 reflete os períodos de pico das ondas de contágio no Distrito Federal?*
 
+## Link do Dado Original
+Os dados utilizados neste projeto foram extraídos das bases oficiais de transparência do Distrito Federal.
+* **Fonte dos dados:** [Portal de Transparência do DF / Dados Abertos](https://dados.df.gov.br/pt-BR/web/dados-abertos/dataset/activity/doacoes-recebidas)
+
 ## Tecnologias e Bibliotecas Utilizadas
 
 * **Linguagem:** Python
@@ -33,11 +37,29 @@ A base de dados detalha a natureza das doações (bens móveis, imóveis ou de c
 3.  **Análise Temporal:** Mapeamento de picos de doações e sazonalidade ao longo dos meses e anos.
 4.  **Visualização de Dados:** Geração de gráficos de linha, barras e distribuições para responder à pergunta central.
 
+## Como Rodar o Arquivo (.ipynb)
+
+É possível executar este projeto das seguintes formas: no **Google Colab** (sem precisar de instalar nada no computador) ou no **VS Code**
+
+> ⚠️ **Nota Importante:** Este projeto utiliza os ficheiros de dados `doacoes-recebidas2020.csv` até `doacoes-recebidas2026.csv`. Certifica-te de que estes ficheiros estão na mesma pasta que o notebook ao executar.
+
+### Opção 1: Pelo Google Colab (Mais fácil e rápido)
+1. Transfere (download) o ficheiro `Análise_de_Dados_Doações.ipynb` deste repositório.
+2. Abre o [Google Colab](https://colab.research.google.com/).
+3. Clica na aba **Upload** e seleciona o ficheiro `.ipynb` descarregado.
+4. No painel lateral esquerdo do Colab, faz o upload dos ficheiros `.csv` de dados (de 2020 a 2026).
+5. Executa as células sequencialmente pressionando `Shift + Enter` ou clicando no botão de *Play*.
+
+### Opção 2: Pelo VS Code
+1. Clona este repositório no teu computador:
+   ```bash
+   git clone [https://github.com/gabriellekeiko/projeto_doacoes_gdf.git](https://github.com/gabriellekeiko/projeto_doacoes_gdf.git)
+   cd projeto_doacoes_gdf
 ---
 ## Autoria
 Este projeto foi desenvolvido por:
-* *Gabrielle Keiko*
-  * Aluna de Ciência de Dados e Machine Learning no *CEUB*
+* **Gabrielle Keiko**
+* *Maria Eduarda**
+* *Nicole**
+  * Alunas de Ciência de Dados e Machine Learning no *CEUB*
   * Introdução a Ciência de Dados 2026
-  * E-mail institucional: gabrielle.keiko@sempreceub.com | E-mail pessoal: gkeiko.05@gmail.com
-  * Meu Perfil no LinkedIn: https://www.linkedin.com/in/gabrielle-keiko-9baa6a2b3/
