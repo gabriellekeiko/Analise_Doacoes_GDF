@@ -53,8 +53,8 @@ Os dados utilizados neste projeto foram extraídos das bases oficiais de transpa
 ### Opção 2: Pelo VS Code
 1. Clona este repositório no teu computador:
    ```bash
-   git clone [https://github.com/gabriellekeiko/projeto_doacoes_gdf.git](https://github.com/gabriellekeiko/projeto_doacoes_gdf.git)
-   cd projeto_doacoes_gdf
+   git clone [https://github.com/gabriellekeiko/Analise_Doacoes_GDF.git](https://github.com/gabriellekeiko/Analise_Doacoes_GDF.git)
+   cd Analise_Doacoes_GDF
 ---
 ## Autoria
 Este projeto foi desenvolvido por:
