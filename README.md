@@ -58,8 +58,8 @@ Os dados utilizados neste projeto foram extraídos das bases oficiais de transpa
 ---
 ## Autoria
 Este projeto foi desenvolvido por:
-* **Gabrielle Keiko**
-* *Maria Eduarda*
-* *Nicole*
+* **Gabrielle Keiko Ozú Carneiro**
+* *Maria Eduarda Melo*
+* *Nicole Cruz*
   * Alunas de Ciência de Dados e Machine Learning no *CEUB*
   * Introdução a Ciência de Dados 2026
